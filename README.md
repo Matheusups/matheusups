@@ -19,16 +19,17 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/xapel_fm/?hl=pt-br" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVdtgdnHLwftVkhjGHJLjDgVqXJMWTNQHCVGtlkHhFWnmslwmrbLMmCJLGFfPpwJGgg" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"></a>
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/"https://www.linkedin.com/in/fernando-moura-b73a351a1"/></a>
+  
+  <a href="https://www.linkedin.com/in/fernando-moura-b73a351a1" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://api.whatsapp.com/send?phone=5521967784777&text=Contato%20Fernando""/></a>
+  <a href="https://api.whatsapp.com/send?phone=5521967784777&text=Contato%20Fernando" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/xapel_fm/?hl=pt-br""/></a>
+  <a href="https://www.instagram.com/xapel_fm/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"></a>
 </p>  
 
 
