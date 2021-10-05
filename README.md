@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" link="fernando.costa.221@gmail.com"></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/fernando-moura-b73a351a1/""/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/"https://www.linkedin.com/in/fernando-moura-b73a351a1"/></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://api.whatsapp.com/send?phone=5521967784777&text=Contato%20Fernando""/></a>
