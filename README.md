@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Olá, me chamo Fernando Matheus, estudante de <strong>Data Science.</strong><br>
-  Estou fazendo pequenos projetos com pandas, numpy, matplotlib bibliotecas que abrangem a área de análise de dados.
+  Estou fazendo pequenos projetos com pyspark, pandas, numpy, matplotlib e bibliotecas que abrangem a área de análise e tratamento de dados.
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>PyCharm, Google Colab, JupyterNotebook, R studio, SQL Server.</strong>
+  💼 Ferramentas: <strong>Databricks, Azure, Data Factory, PyCharm, Google Colab, JupyterNotebook, R studio, SQL Server.</strong>
 </p>
 
 <p align="left">
