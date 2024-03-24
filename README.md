@@ -3,11 +3,11 @@
 
 <p align="left"> 
   Olá, me chamo Fernando Matheus, estudante de <strong>Data Science.</strong><br>
-  Estou fazendo pequenos projetos com pyspark, pandas, numpy, matplotlib e bibliotecas que abrangem a área de análise e tratamento de dados.
+  Tenho atuado em projetos com pyspark, pandas, numpy, matplotlib e bibliotecas que abrangem a área de análise e tratamento de dados. Além disso também obtive uma grande experiencia trabalhando com ferramentas como Databricks, Azure Data Factory, Storage Account e Data Lakes. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, R e SQL.</strong>
+  🦄 Linguagens: <strong>Python, Scala, R e SQL.</strong>
 </p>
 
 <p align="left">
