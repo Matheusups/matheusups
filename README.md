@@ -3,6 +3,7 @@
 
 <p align="left"> 
   Olá, me chamo Fernando Matheus, sou formado em <strong>Ciências de Dados</strong> e atualmente tenho trabalhado minhas skills visando me especializar em Engenharia de Dados<br>
+  
   Tenho atuado em projetos com pyspark, pandas, numpy, matplotlib e bibliotecas que abrangem a área de análise e tratamento de dados. Além disso também obtive uma grande experiencia trabalhando com ferramentas como Databricks, Azure Data Factory, Storage Account e Data Lakes. 
 </p>
 
