@@ -26,11 +26,8 @@
   <a href="https://www.linkedin.com/in/fernando-moura-b73a351a1" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5521967784777&text=Contato%20Fernando" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5521995030842&text=Contato%20Fernando" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"></a>
-
-  <a href="https://www.instagram.com/xapel_fm/?hl=pt-br" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"></a>
 </p>  
 
 
